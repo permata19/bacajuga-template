@@ -1,0 +1,6 @@
+var widgetBacaJuga = true;
+var relatedPosts = true;
+var numberedPagination = true;
+var lokasiIklanTengah1 = 2;
+var lokasiIklanTengah2 = 6;
+var lokasiBacaJuga = 4;
